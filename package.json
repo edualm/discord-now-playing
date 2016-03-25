@@ -1,0 +1,16 @@
+{
+  "name": "now-playing-discord",
+  "version": "1.0.0",
+  "description": "Set what's playing on iTunes as your Discord status!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Almeida",
+  "license": "MIT",
+  "dependencies": {
+    "discordie": "^0.4.1",
+    "playback": "^0.2.0"
+  }
+}
